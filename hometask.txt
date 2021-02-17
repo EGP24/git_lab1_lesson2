@@ -1,1 +1,12 @@
 Они одинаковые
+
+Комментарии коммитов:
+1) init
+2) heat added
+3) boots
+4) README added
+5) dots
+6) fix readme
+7) Merge branches 'boots' and 'buttons' of https://github.com/YandexLyceum/human
+8) Merge branch 'boots_buttons' into master
+9) init master
